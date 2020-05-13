@@ -38,6 +38,15 @@
 
 -> Through load testing application use case of race condition can be tested
 
+### API endpoints
+
+-> **http://localhost:8080/product-service/products**
+
+-> **http://localhost:8080/cart-service/add_cart**
+
+-> **http://localhost:8080/checkout-service/checkout**
+
+
 ### Scaling application
 
 -> Spring Cloud based orchestarion can make application scale and multiple of service instances can exists on same
